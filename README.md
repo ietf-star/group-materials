@@ -1,2 +1,2 @@
 # wg-materials
-Store and Transmit Routing (star-wg) working group materials
+STorage-Aware Routing (star-wg) working group materials
