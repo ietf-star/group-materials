@@ -1,2 +1,2 @@
 # group-materials
-STorage-Aware Routing (star-wg) group materials
+IETF STorage-Aware Routing (ietf-star) mailing list materials
